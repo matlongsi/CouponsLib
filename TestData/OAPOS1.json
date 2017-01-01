@@ -1,0 +1,23 @@
+[
+	{
+        "oadId": 1,
+        "storeGln": {
+            "glnId": 4
+        },
+        "storeInternalId": "store int id 1"
+	},
+	{
+        "oadId": 1,
+        "storeGln": {
+            "glnId": 3
+        },
+        "storeInternalId": "store int id 2"
+	},
+	{
+        "oadId": 1,
+        "storeGln": {
+            "glnId": 2
+        },
+        "storeInternalId": "store int id 3"
+	}
+]

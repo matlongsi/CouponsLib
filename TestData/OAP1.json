@@ -1,0 +1,16 @@
+[
+	{
+        "oddId": 1,
+        "timePeriod": {
+            "endDateTime": "2015-12-22T23:55:55",
+            "startDateTime": "2015-07-22T00:05:05"
+        }
+    },
+	{
+        "oddId": 1,
+        "timePeriod": {
+            "endDateTime": "2016-12-22T23:56:56",
+            "startDateTime": "2016-07-22T00:06:06"
+        }
+    }
+]

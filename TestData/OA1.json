@@ -1,0 +1,47 @@
+[
+    {
+        "artworkType": "PRODUCT_IMAGE",
+        "fileContentDescriptions": [
+            {
+                "fileContentDescription": "file content description 1"
+            }
+        ],
+        "fileFormatName": "JPG",
+        "fileName": "artwork file name 1",
+        "fileUri": "www.uri.com ... 1",
+        "ommId": 1
+    },
+    {
+        "artworkType": "PRODUCT_IMAGE",
+        "fileContentDescriptions": [
+            {
+                "fileContentDescription": "file content description 2"
+            },
+            {
+                "fileContentDescription": "file content description 3"
+            }
+        ],
+        "fileFormatName": "GIFF",
+        "fileName": "artwork file name 2",
+        "fileUri": "www.uri.com ... 2",
+        "ommId": 1
+    },
+    {
+        "artworkType": "PRODUCT_IMAGE",
+        "fileContentDescriptions": [
+            {
+                "fileContentDescription": "file content description 4"
+            },
+            {
+                "fileContentDescription": "file content description 5"
+            },
+            {
+                "fileContentDescription": "file content description 6"
+            }
+        ],
+        "fileFormatName": "GIFF",
+        "fileName": "artwork file name 3",
+        "fileUri": "www.uri.com ... 3",
+        "ommId": 1
+    }
+]

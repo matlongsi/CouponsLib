@@ -1,0 +1,37 @@
+[
+    {
+        "couponId": 2,
+        "offerAwarderNumber": {
+            "glnId": 3
+        },
+        "optimisticLockVersion": 0,
+        "pointOfSales": [
+            {
+                "storeGln": {
+                    "glnId": 4
+                },
+                "storeInternalId": "store internal id 1"
+            },
+            {
+                "storeGln": {
+                    "glnId": 5
+                },
+                "storeInternalId": "store internal id 2"
+            }
+        ],
+        "redemptionPeriods": [
+            {
+                "timePeriod": {
+                    "endDateTime": "2015-07-21T23:59:59",
+                    "startDateTime": "2015-07-21T00:00:00"
+                }
+            },
+            {
+                "timePeriod": {
+                    "endDateTime": "2015-08-21T23:59:59",
+                    "startDateTime": "2015-07-21T01:02:03"
+                }
+            }
+        ]
+    }
+]

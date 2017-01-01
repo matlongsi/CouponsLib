@@ -1,0 +1,17 @@
+[
+    {
+        "loyaltyProgramName": "loyalty program name 1",
+        "orId": 1,
+        "rewardedLoyaltyPointsQuantity": 10000
+    },
+    {
+        "loyaltyProgramName": "loyalty program name 2",
+        "orId": 1,
+        "rewardedLoyaltyPointsQuantity": 20000
+    },
+    {
+        "loyaltyProgramName": "loyalty program name 3",
+        "orId": 1,
+        "rewardedLoyaltyPointsQuantity": 30000
+    }
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"couponId": 2,
+        "rewardTradeItems": [
+            {
+                "tradeItemGtin": {
+                    "gtinId": 2
+                },
+                "trade_item_quantity": 10
+            },
+            {
+                "tradeItemGtin": {
+                    "gtinId": 3
+                },
+                "trade_item_quantity": 10
+            }
+        ],
+        "rewardType": "TRADE_ITEM_REWARD"
+    }
+]

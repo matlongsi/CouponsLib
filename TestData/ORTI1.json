@@ -1,0 +1,16 @@
+[
+	{
+	    "orId": 1,
+	    "tradeItemGtin": {
+	        "gtinId": 2
+	    },
+	    "tradeItemQuantity": 12
+	},
+	{
+	    "orId": 1,
+	    "tradeItemGtin": {
+	        "gtinId": 3
+	    },
+	    "tradeItemQuantity": 13
+	}
+]

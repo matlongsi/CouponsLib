@@ -1,0 +1,23 @@
+[
+    {
+        "couponOfferNumber": {
+	        "checkDigit": 0,
+	        "companyPrefix": 2222111,
+	        "couponReference": 333,
+	        "serialComponent": 0
+        },
+        "offerDistributorNumber": {
+            "glnId": 1
+        },
+        "offerIssuerNumber": {
+            "glnId": 2
+        },
+        "offerTypeCode": "MANUFACTURER_COUPON",
+        "status": "ACTIVE",
+        "timePeriod": {
+	        "endDateTime": "2015-12-21T23:59:59",
+	        "startDateTime": "2015-07-21T00:00:00"
+        },
+        "timeZone": "US/Central"
+    }
+]

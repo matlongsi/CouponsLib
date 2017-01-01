@@ -1,0 +1,20 @@
+[
+	{
+		"couponId": 2,
+        "acquisitionPeriods": [
+            {
+                "timePeriod": {
+			        "endDateTime": "2016-12-22T22:52:52",
+			        "startDateTime": "2016-07-22T02:02:02"
+                }
+            }
+        ],
+        "maximumOfferAcquisitions": 10,
+        "publicationPeriod": {
+            "timePeriod": {
+		        "endDateTime": "2016-12-23T23:53:53",
+		        "startDateTime": "2016-07-23T03:03:03"
+            }
+        }
+	}
+]

@@ -1,0 +1,7 @@
+[
+	{
+		"couponId": 2,
+        "maximumCumulativeUses": 10,
+        "maximumUsesPerTransaction": 2
+    }
+]

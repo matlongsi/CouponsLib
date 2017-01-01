@@ -1,0 +1,20 @@
+[
+    {
+        "checkDigit": 4,
+        "companyPrefix": 1111111,
+        "couponReference": 331,
+        "serialComponent": 0
+    },
+	{
+        "checkDigit": 6,
+        "companyPrefix": 1111111,
+        "couponReference": 332,
+        "serialComponent": 1
+	},
+	{
+        "checkDigit": 8,
+        "companyPrefix": 1111111,
+        "couponReference": 333,
+        "serialComponent": 2
+	}
+]

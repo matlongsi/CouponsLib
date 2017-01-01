@@ -1,0 +1,18 @@
+[
+    {
+        "prId": 1,
+        "tradeItemGroup": "trade item group 1",
+        "tradeItemNumber": {
+            "gtinId": 2
+        },
+        "tradeItemQuantity": 10
+    },
+    {
+        "prId": 1,
+        "tradeItemGroup": "trade item group 2",
+        "tradeItemNumber": {
+            "gtinId": 3
+        },
+        "tradeItemQuantity": 10
+    }
+]

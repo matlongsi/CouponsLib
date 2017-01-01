@@ -1,0 +1,23 @@
+[
+	{
+		"couponId": 2,		
+        "purchaseRequirementMonetaryAmount": 0,
+        "purchaseRequirementTradeItems": [
+            {
+                "tradeItemGroup": "trade item group 1",
+                "tradeItemNumber": {
+                    "gtinId": 1
+                },
+                "tradeItemQuantity": 10
+            },
+            {
+                "tradeItemGroup": "trade item group 2",
+                "tradeItemNumber": {
+                    "gtinId": 3
+                },
+                "tradeItemQuantity": 10
+            }
+        ],
+        "purchaseRequirementType": "ONE_ITEM_PER_GROUP"
+    }
+]

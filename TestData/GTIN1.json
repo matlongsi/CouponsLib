@@ -1,0 +1,17 @@
+[
+    {
+        "checkDigit": 1,
+        "companyPrefix": 1111111,
+        "itemReference": 13
+    },
+	{
+        "checkDigit": 2,
+        "companyPrefix": 1111111,
+        "itemReference": 14
+	},
+	{
+        "checkDigit": 3,
+        "companyPrefix": 1111111,
+        "itemReference": 15
+	}
+]

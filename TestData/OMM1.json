@@ -1,0 +1,64 @@
+[
+	{
+		"couponId": 2,
+        "artworks": [
+            {
+                "artworkType": "PRODUCT_IMAGE",
+                "fileContentDescriptions": [
+                    {
+                        "fileContentDescription": "file content description 1"
+                    }
+                ],
+                "fileFormatName": "JPG",
+                "fileName": "artwork file name 1",
+                "fileUri": "www.uri.com ... 1"
+            },
+            {
+                "artworkType": "PRODUCT_IMAGE",
+                "fileContentDescriptions": [
+                    {
+                        "fileContentDescription": "file content description 2"
+                    }
+                ],
+                "fileFormatName": "GIFF",
+                "fileName": "artwork file name 2",
+                "fileUri": "www.uri.com ... 2"
+            }
+        ],
+        "brandName": "brand name",
+        "legalStatements": [
+            {
+                "legalStatement": "legal statement 1"
+            },
+            {
+                "legalStatement": "legal statement 2"
+            }
+        ],
+        "longDescriptions": [
+            {
+                "longDescription": "long desc 1"
+            },
+            {
+                "longDescription": "long desc 2"
+            }
+        ],
+        "ommId": 1,
+        "optimisticLockVersion": 0,
+        "productCategories": [
+            {
+                "productCategory": "product category 1"
+            },
+            {
+                "productCategory": "product category 2"
+            }
+        ],
+        "shortDescriptions": [
+            {
+                "shortDescription": "short desc 1"
+            },
+            {
+                "shortDescription": "short desc 2"
+            }
+        ]
+    }
+]

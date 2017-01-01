@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources PUBLIC
+    "-//GlassFish.org//DTD GlassFish Application Server 3.1 Resource Definitions//EN"
+    "http://glassfish.org/dtds/glassfish-resources_1_5.dtd">
+<resources>
+    <jdbc-connection-pool validation-table-name="TABLEVALIDATION" allow-non-component-callers="true"
+                          statement-cache-size="200" associate-with-thread="true" statement-timeout-in-seconds="300"
+                          non-transactional-connections="true" connection-leak-reclaim="true"
+                          lazy-connection-association="true" connection-creation-retry-attempts="12"
+                          lazy-connection-enlistment="true" validate-atmost-once-period-in-seconds="120"
+                          statement-leak-timeout-in-seconds="360"
+                          datasource-classname="com.mysql.jdbc.jdbc2.optional.MysqlDataSource" res-type="javax.sql.DataSource"
+                          connection-leak-timeout-in-seconds="420" statement-leak-reclaim="true"
+                          name="MySQLConnPool2" is-connection-validation-required="true">
+        <property name="DataSourceName" value="OracleDataSource"></property>
+        <property name="ImplicitCachingEnabled" value="false"></property>
+        <property name="NetworkProtocol" value="tcp"></property>
+        <property name="DatabaseName" value="COUPONS_OPS"></property>
+        <property name="LoginTimeout" value="0"></property>
+        <property name="Password" value="man0jdas"></property>
+        <property name="URL" value="jdbc:mysql://:3306/COUPONS_OPS"></property>
+        <property name="User" value="root"></property>
+        <property name="PortNumber" value="3306"></property>
+        <property name="ExplicitCachingEnabled" value="false"></property>
+        <property name="dynamic-reconfiguration-wait-timeout-in-seconds" value="960"></property>
+        <property name="MaxStatements" value="0"></property>
+    </jdbc-connection-pool>
+    <jdbc-resource pool-name="MySQLConnPool2" jndi-name="java:app/jdbc/COUPONS_OPS2"></jdbc-resource>
+</resources>

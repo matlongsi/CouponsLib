@@ -1,0 +1,216 @@
+{
+    "couponOfferNumber": {
+        "checkDigit": 6,
+        "companyPrefix": 1111111,
+        "couponReference": 333,
+        "gcnId": 1,
+        "serialComponent": 0
+    },
+    "distributionDetail": {
+        "acquisitionPeriods": [
+            {
+                "timePeriod": {
+			        "endDate": "2015-12-21",
+			        "endDateTime": "23:59:59",
+			        "startDate": "2015-07-21",
+			        "startDateTime": "00:00:00"
+                }
+            }
+        ],
+        "maximumOfferAcquisitions": 10,
+        "publicationPeriod": {
+            "timePeriod": {
+			        "endDate": "2015-12-21",
+			        "endDateTime": "23:59:59",
+			        "startDate": "2015-07-21",
+			        "startDateTime": "00:00:00"
+            }
+        }
+    },
+    "financialSettlementDetail": {
+        "offerClearingInstructions": "offer clrng instn ..."
+    },
+    "marketingMaterial": {
+        "artworks": [
+            {
+                "artworkType": "PRODUCT_IMAGE",
+                "fileContentDescriptions": [
+                    {
+                        "fileContentDescription": "file content description 1"
+                    }
+                ],
+                "fileFormatName": "JPG",
+                "fileName": "artwork file name 1",
+                "fileUri": "www.uri.com ... 1"
+            },
+            {
+                "artworkType": "PRODUCT_IMAGE",
+                "fileContentDescriptions": [
+                    {
+                        "fileContentDescription": "file content description 2"
+                    }
+                ],
+                "fileFormatName": "GIFF",
+                "fileName": "artwork file name 2",
+                "fileUri": "www.uri.com ... 2"
+            }
+        ],
+        "brandName": "brand name",
+        "legalStatements": [
+            {
+                "legalStatement": "legal statement 1"
+            },
+            {
+                "legalStatement": "legal statement 2"
+            }
+        ],
+        "longDescriptions": [
+            {
+                "longDescription": "long desc 1"
+            },
+            {
+                "longDescription": "long desc 2"
+            }
+        ],
+        "productCategories": [
+            {
+                "productCategory": "product category 1"
+            },
+            {
+                "productCategory": "product category 2"
+            }
+        ],
+        "shortDescriptions": [
+            {
+                "shortDescription": "short desc 1"
+            },
+            {
+                "shortDescription": "short desc 2"
+            }
+        ]
+    },
+    "offerAwarderDetails": [
+        {
+            "offerAwarderNumber": {
+                "checkDigit": 9,
+                "companyPrefix": 1111113,
+                "glnId": 3,
+                "locationReference": 0
+            },
+            "pointOfSales": [
+                {
+                    "storeGln": {
+                        "checkDigit": 9,
+                        "companyPrefix": 1111121,
+                        "glnId": 4,
+                        "locationReference": 1
+                    },
+                    "storeInternalId": "store internal id 1"
+                },
+                {
+                    "storeGln": {
+                        "checkDigit": 4,
+                        "companyPrefix": 2111111,
+                        "glnId": 5,
+                        "locationReference": 5
+                    },
+                    "storeInternalId": "store internal id 2"
+                }
+            ],
+            "redemptionPeriods": [
+                {
+                    "timePeriod": {
+				        "endDate": "2015-12-21",
+				        "endDateTime": "23:59:59",
+				        "startDate": "2015-07-21",
+				        "startDateTime": "00:00:00"
+                    }
+                },
+                {
+                    "timePeriod": {
+				        "endDate": "2015-12-21",
+				        "endDateTime": "23:59:59",
+				        "startDate": "2015-07-21",
+				        "startDateTime": "00:00:00"
+                    }
+                }
+            ]
+        }
+    ],
+    "offerDistributorNumber": {
+        "checkDigit": 8,
+        "companyPrefix": 1111112,
+        "glnId": 2,
+        "locationReference": 0
+    },
+    "offerIssuerNumber": {
+        "checkDigit": 7,
+        "companyPrefix": 1111111,
+        "glnId": 1,
+        "locationReference": 0
+    },
+    "offerReward": {
+        "rewardLoyaltyPoints": [],
+        "rewardMonetaryAmount": 0,
+        "rewardTradeItems": [
+            {
+                "tradeItemGtin": {
+                    "checkDigit": 1,
+                    "companyPrefix": 2111111,
+                    "gtinId": 2,
+                    "itemReference": 12
+                },
+                "trade_item_quantity": 10
+            },
+            {
+                "tradeItemGtin": {
+                    "checkDigit": 2,
+                    "companyPrefix": 3111111,
+                    "gtinId": 3,
+                    "itemReference": 12
+                },
+                "trade_item_quantity": 10
+            }
+        ],
+        "rewardType": "TRADE_ITEM_REWARD"
+    },
+    "offerTypeCode": "MANUFACTURER_COUPON",
+    "purchaseRequirement": {
+        "purchaseRequirementMonetaryAmount": 0,
+        "purchaseRequirementTradeItems": [
+            {
+                "tradeItemGroup": "trade item group 1",
+                "tradeItemNumber": {
+                    "checkDigit": 1,
+                    "companyPrefix": 2111111,
+                    "gtinId": 2,
+                    "itemReference": 12
+                },
+                "tradeItemQuantity": 10
+            },
+            {
+                "tradeItemGroup": "trade item group 2",
+                "tradeItemNumber": {
+                    "checkDigit": 2,
+                    "companyPrefix": 3111111,
+                    "gtinId": 3,
+                    "itemReference": 12
+                },
+                "tradeItemQuantity": 10
+            }
+        ],
+        "purchaseRequirementType": "ONE_ITEM_PER_GROUP"
+    },
+    "status": "ACTIVE",
+    "timePeriod": {
+	        "endDate": "2015-12-21",
+	        "endDateTime": "23:59:59",
+	        "startDate": "2015-07-21",
+	        "startDateTime": "00:00:00"
+    },
+    "timeZone": 1,
+    "usageCondition": {
+        "maximumCumulativeUses": 10,
+        "maximumUsesPerTransaction": 2
+    }
+}

@@ -1,0 +1,17 @@
+[
+	{
+	    "checkDigit": 7,
+	    "companyPrefix": 1111111,
+	    "locationReference": 0
+	},
+	{
+	    "checkDigit": 8,
+	    "companyPrefix": 1111112,
+	    "locationReference": 0
+	},
+	{
+	    "checkDigit": 9,
+	    "companyPrefix": 1111113,
+	    "locationReference": 0
+	}
+]
